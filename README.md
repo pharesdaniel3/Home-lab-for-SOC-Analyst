@@ -273,4 +273,4 @@ This project was created strictly for educational and ethical cybersecurity lear
 ## Phares Daniel
 Aspiring SOC Analyst | Cybersecurity Enthusiast | Cloud Security Learner
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/pharesdaniel3
